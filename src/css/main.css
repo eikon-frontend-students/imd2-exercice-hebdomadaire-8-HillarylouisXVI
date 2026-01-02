@@ -70,4 +70,11 @@ button {
   color: #fff;
   font-size: 18px;
   font-weight: 700;
+  border: none;
+}
+
+button:hover {
+  cursor: pointer;
+  border-radius: 25px;
+  background: #4924ff;
 }
