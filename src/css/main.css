@@ -58,3 +58,16 @@ p {
   gap: 5px;
   flex: 1 0 0;
 }
+
+button {
+  display: flex;
+  width: 244px;
+  height: 50px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 25px;
+  background: #0a003c;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 700;
+}
